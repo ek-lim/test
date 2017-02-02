@@ -7,5 +7,8 @@ public class HelloJava {
 		
 		// branch 추가!
 		System.out.println("Second Commit work");
+		
+		// 지역저장소 내용 추가
+		System.out.println("third commit work");
 	}
 }
