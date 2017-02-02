@@ -7,5 +7,8 @@ public class HelloJava {
 		
 		// branch 추가!
 		System.out.println("Second Commit work");
+		
+		// added 			
+		system.out.println("Github updated");			
 	}
 }
